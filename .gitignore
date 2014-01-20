@@ -15,6 +15,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
+webcam.jpg
 
 # External tool builders
 .externalToolBuilders/
